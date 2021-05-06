@@ -2,7 +2,7 @@
     "languageCode": "fi",
     "languageName": "Finnish",
     "langageNameShort": "FIN",
-    "dateLocale": "en-US",
+    "dateLocale": "enUS",
   
     "or": "tai",
     "to": "to",
@@ -79,6 +79,12 @@
     "twitter": "Twitter",
     "getUpdatesTwitterShort": "Seuraa päivityksiä Twitterissä",
     "getUpdatesTwitterLong": "Seuraa meitä päivityksiä varten",
+    "slack": "Slack",
+    "getUpdatesSlackShort": "Hanki päivitykset Slack palveluun",
+    "getUpdatesSlackLong": "Tilaa päivitykset suoraan Slack palveluun",
+    "discord": "Discord",
+    "getUpdatesDiscordShort": "Tilaa päivitykset Discord palveluun",
+    "getUpdatesDiscordLong": "Tilaa päivitykset suoraan Discord palveluun",
   
     "reportAnIssue": "Ilmoita ongelmasta",
     "copied": "Kopioitu",
